@@ -1,2 +1,2 @@
-# notas-etica-profesional-blog
-Notas sobre ética profesional
+# ETICA PROFESIONAL
+
