@@ -188,3 +188,4 @@ output: github_document
 - ¿Cuál es la critica que hace el utilitarismo al pensamiento Cristiano?
 
   Postulaba, de que una ley no se debe, ni puede basarse en una religión y que no todos los actos buenos te llevan a resultados buenos. Bentham afirmaba que no se debe concentrar en los actos, no importa si estos son buenos o malos, que lo que realmente importa es generar resultados buenos.
+  
